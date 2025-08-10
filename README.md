@@ -11,4 +11,4 @@ There was also some difficulty dealing with my linux distro's preference for fla
 
 ## Update - CSS Additions
 
-In progress
+Added colors, a container div, more visible navigation, centering, a new font family, and better typography overall.
